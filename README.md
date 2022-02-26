@@ -1,4 +1,4 @@
-# Python-Visualisation
+# Python-Visualization
 
 Visualizing the algorithm with pygame, The different between bubble sort and insertion sort.
 
